@@ -1,0 +1,14 @@
+{
+  "firstName": "Xi Xian",
+  "lastName": "Huang",
+  "nickName": "Lily",
+  "privateName": false,
+  "picture": "images/xixianhuang.jpg",
+  "privatePicture": false,
+  "email": "lilyxixian.huang@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "xixianhuang",
+  "privateGithub": false,
+  "superpower" : "eating crazy amounts of food",
+  "academicinterests": "anything that tickles"
+}
