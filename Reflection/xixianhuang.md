@@ -1,0 +1,13 @@
+# Reflection
+
+Respond to each of the questions below with a carefully thought out reflection on the assignment.
+
+## Question 1
+#### In this assignment, we used your user input to construct a small website composed of flipping cards. Can you think of a more interesting use for this basic layout? The use you describe should serve some pedagogical or research-oriented purpose for historians or humanists
+The most basic function I can think of for this set of flipping cards is for the cards to introduce terminology or new ideas. Because of the simple format, I think it would be easiest to use this function as a way to relay simple information that does not require a lot of discussion. As a student and an aspiring humanist, I can see myself using this set of flipping cards to study and memorize terms given to me by professors. 
+## Question 2
+#### This assignment asks you all to perform a certian amount of work (describing yourselves) in order to improve a project (the course roster website). What responsibilities does the "researcher" (in this case, your teacher) have to the participants (you)? What rights do or should the participants have to the end product? 
+I think the researcher/professor has the responsibility of collating the information accurately and making it available to the students enrolled in the course during the semester. However, I think that the information should be held private from being made visible to other students in other semesters. Given that the professor asked students whether they wanted this information viewable to other students is already enough. 
+## Question 3
+#### Information in each student record was provided as a series of "fields", that is, discrete units of information separated from each other. In the use you describe above, what fields would you need to provide for each record? Can you think of any limitations or obstacles that the use of this kind of data structure imposes on your project?
+The limitations I can think of related to my project would be the fact that the flip cards I create would not take the form of a survey that many people can change. Instead, it would be rigid and simply disseminate information rather than gather information, which was the intent of this assignment. Therefore, my proposal would serve only a specific function rather different from the one that was the aim of this assignment. The fields I would need to provide for each record would depend on the course I am taking/what I am studying for. Another function I can think of is that it might be a good way for student to complete a fill in the blank take home test.
